@@ -1,2 +1,2 @@
-# AI-ML-INTERNSHIP-PROJECT-1-AT-ELEVATE-LABS
-![Project Image](super_store_sales_dashboard.png)
+# EDA ON TITANIC DATASET
+![Project Image](solution-cleaned_pdf_20250424_212013.png)
